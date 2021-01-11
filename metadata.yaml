@@ -1,0 +1,38 @@
+_repo: The-Evolution-Theory-Vol-1-of-2_64227
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Thomson, J. Arthur (John Arthur)
+    alias: Thomson, John Arthur
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '9286'
+    url: http://www.gutenberg.org/2009/agents/9286
+    wikipedia: http://en.wikipedia.org/wiki/J._Arthur_Thomson
+  - agent_name: Thomson, Margaret R.
+    gutenberg_agent_id: '41553'
+    url: http://www.gutenberg.org/2009/agents/41553
+creator:
+  author:
+    agent_name: Weismann, August
+    aliases:
+    - Weismann, A. (August)
+    - Weismann, Friedrich Leopold August
+    birthdate: 1834
+    deathdate: 1914
+    gutenberg_agent_id: '25331'
+    url: http://www.gutenberg.org/2009/agents/25331
+    wikipedia: http://en.wikipedia.org/wiki/August_Weismann
+description: ''
+gutenberg_issued: '2021-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Evolution Theory, Vol. 1 of 2
+url: http://www.gutenberg.org/ebooks/64227
